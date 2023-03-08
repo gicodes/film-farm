@@ -1,4 +1,4 @@
-# film-farm
+# film-farm.app
 
 - is a basic web application used to look up and compare movies.
 - Fetches data from OMDb API and renders detailed information to end users. 
