@@ -15,8 +15,8 @@ This application is simple to use
 - You can scroll up or down the dropdown and click to see the film statistics in a column.
 - If you search on both bars, you get two columns comparing each statistic row against row.
 - The better 'stat' displays a green background- while the other, displays yellow.
-- Compared statistics that are inconclusive- display green.
-- When a statistic is unavailable, it will display "N/A"
+- Compared statistics that are inconclusive, display green.
+- When a statistic is unavailable, it should display "N/A"
 
 
 ## Application Scalability
